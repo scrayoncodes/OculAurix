@@ -27,3 +27,7 @@ import pyttsx3 #
 
 # 
 App_Name = "OculAurix" 
+
+SPLASH_SCREEN_DURATION_MS = 3000
+
+tts_engine = pyttsx3.init()
