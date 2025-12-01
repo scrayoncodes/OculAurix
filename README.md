@@ -17,7 +17,7 @@ Transcribes speech into text using a microphone.
 Instantly stops or blocks all STT/TTS activity so the user has full control.
 
 ### Communication History
-Saves every interaction (STT, TTS, ASL if enabled) to `history.json` for later reference.
+Saves every interaction (STT, TTS, ASL if enabled) to  for later reference.
 
 ---
 
